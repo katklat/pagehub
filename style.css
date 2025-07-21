@@ -157,6 +157,12 @@ h1 {
     padding-top: 2rem;
 }
 
+/* Add more space to the portfolio section */
+#portfolio {
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+}
+
 /* Responsive adjustments */
 @media (max-width: 992px) {
     .vertical-banner {
